@@ -1,0 +1,1 @@
+payload = {'iss': 'localhost', 'name': 'teste', 'email': 'teste@teste.com'}

@@ -1,0 +1,5 @@
+pip install python-jose --user
+pip install flask --user
+pip install request --user
+pip install requests --user
+pip install jsonify --user
